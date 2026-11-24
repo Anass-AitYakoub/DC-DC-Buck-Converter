@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "BuckConverter_Custom") (type "KiCad") (uri "C:/Users/aitan/OneDrive/Documents/Personal Project/Buck Converter/BuckConverter_Custom.pretty") (options "") (descr ""))
+)

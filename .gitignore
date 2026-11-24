@@ -1,0 +1,41 @@
+
+# ========================================
+# KiCad - Temporary and backup files
+# ========================================
+*.kicad_prl
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.kicad_pro-bak
+*.bak
+*.lck
+*-backups/
+*.kicad_wks-bak
+
+# Editor history
+.history/
+.vscode/
+
+# ========================================
+# MATLAB / Simulink - Generated files
+# ========================================
+slprj/
+*.slxc
+*.asv
+*.m~
+*.autosave
+*.mexw64
+*.mexmaci64
+*.mexa64
+
+# ========================================
+# Operating system files
+# ========================================
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# ========================================
+# Python cache (future use)
+# ========================================
+__pycache__/
+*.pyc
